@@ -1,0 +1,20 @@
+1. Default Constructor
+Input: No runtime input; Student s1
+Output:
+Name of the student is: Swanit
+Age: 19
+PRN: 203
+
+2. Parameterized Constructor
+Input: Student s1(19, "Swanit", 203)
+Output:
+Name of the student :  Swanit
+Age : 19
+PRN : Swanit
+
+3. Copy Constructor
+Input: Student s1("Swanit",19,203); Student s2 = s1
+Output:
+Name the student is : Swanit
+Age : 19
+PRN : 203
