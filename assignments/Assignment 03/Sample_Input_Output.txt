@@ -1,0 +1,7 @@
+Input:
+Enter departure time (HH:MM): 23:09
+
+Output:
+Departure Time: 23:09
+Travel Duration: 90 minutes
+Arrival Time: 0:39
